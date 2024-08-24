@@ -10,6 +10,9 @@ Hi! I'm Liam Seriff, currently I am majoring in computer science at UNCC with a 
 - Graduate college
 - Continue learning
 
+## Contact
+You can contanct me at liamseriff@gmail.com
+
 <!--
 **LiamSeriff/LiamSeriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
