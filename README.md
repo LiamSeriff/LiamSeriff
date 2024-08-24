@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+## About Me
+Hi! I'm Liam Seriff, currently I am majoring in computer science at UNCC with a concentration in AI, robotics, and gaming.
+
+## Projects
+- ITSC-4155 Software Development Project
+
+## Goals
+- Graduate college
+- Continue learning
 
 <!--
 **LiamSeriff/LiamSeriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
