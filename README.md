@@ -5,6 +5,7 @@ Hi! I'm Liam Seriff, currently I am majoring in computer science at UNCC with a 
 
 ## Projects
 - ITSC-4155 Software Development Project
+- ITCS 4230 Game Demo - APM
 
 ## Goals
 - Graduate college
